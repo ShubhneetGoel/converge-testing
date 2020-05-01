@@ -15,3 +15,5 @@ Make sure to download the drivers for the correct OS & browser version. Place th
 
 Browsers (Chrome, MS Edge, Firefox, etc.)
 Browser drivers
+
+Make sure to change the driver paths in configuration file
